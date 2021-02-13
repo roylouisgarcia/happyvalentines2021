@@ -14,8 +14,16 @@
 }
 
 #card{
-    width: 700px;
+    width: 100%;
+    height: auto;
 }
+
+#mainvideo{
+    width: 100%;
+    height: auto;
+}
+
+
 @font-face {
   font-family: "typewriter";
   src: url("typewriter.ttf") format('truetype');

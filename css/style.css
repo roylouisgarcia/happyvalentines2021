@@ -13,7 +13,9 @@
   font-style: normal;
 }
 
-
+#card{
+    width: 700px;
+}
 @font-face {
   font-family: "typewriter";
   src: url("typewriter.ttf") format('truetype');

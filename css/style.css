@@ -99,6 +99,13 @@ body {
     color:#FF087F;
 }
 
+.birthdaygif{
+    margin: 0;
+    padding: 0;
+    width: 90%;
+    height: auto;
+}
+
 @media screen and (max-width: 480px) {
 .message{
     margin-top: 10px;
